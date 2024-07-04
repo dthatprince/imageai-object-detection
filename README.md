@@ -1,6 +1,3 @@
-# imageai-object-detection
-
-Image Object Detection project using ImageAI with RetinaNet, YOLOv3, or TinyYOLOv3 models on GitHub.
 
 # Image Object Detection using ImageAI
 
