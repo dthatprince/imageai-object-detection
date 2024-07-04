@@ -23,7 +23,7 @@ Explore object detection using ImageAI with the provided models in the jupyter n
 - Loading the pre-trained models.
 - Performing object detection on images.
 - Visualizing detection results.
-- 
+  
 ## Screenshot
 ![Object Detection Example](screenshot.png)
 
