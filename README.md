@@ -36,4 +36,4 @@ Explore object detection using ImageAI with the provided models in the jupyter n
    cd image-object-detection
 
 ## Credits
-ImageAI: Documentation
+ImageAI: [Documentation](https://imageai.readthedocs.io/en/latest/index.html)
