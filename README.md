@@ -25,7 +25,7 @@ Explore object detection using ImageAI with the provided models in the jupyter n
 - Visualizing detection results.
   
 ## Screenshot
-<img src="screenshot.jpg" alt="Object Detection Example" width="400")
+<img src="screenshot.jpg" alt="Object Detection Example" width="400">
 
 
 ### Getting Started
